@@ -1,0 +1,103 @@
+/** Edited **/
+h1 {
+	text-align: center;	
+}
+
+.container-fluid {
+	max-width: 100%;
+	
+	}
+
+.logoSize{
+	width:110px;
+	height:auto;
+	margin: auto;
+	display: block;
+}
+
+.navbar-fixed-top{
+	color: #063;
+	height: 10%;
+	}
+
+/** /Edited **/
+
+.imgSmall {
+	width:50px;
+	height:auto;
+}
+
+.houseBox {
+	border:2px solid;
+	border-radius:25px;
+}
+
+#toggle{
+	display:none;
+}
+
+#titlePos{
+	max-width: 72%;
+	display: inline-block;
+}
+
+#logoPos{
+	position: absolute;
+	/** float:right; **/
+	display: inline-block;
+	margin-left:1%;
+}
+
+.group{
+	display:inline-block;
+}
+
+#imgBox{
+	background-color:#FCFDE5;
+	padding:2%;
+	box-shadow:5px 5px 10px #aaaaaa;
+	-webkit-border-top-left-radius: 50px;
+	-webkit-border-bottom-right-radius: 50px;
+	-moz-border-radius-topleft: 50px;
+	-moz-border-radius-bottomright: 50px;
+	border-top-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+	margin-top:5%;
+	margin-left:6%;
+	margin-bottom:3%;
+	max-width: 85%;
+	display:inline-block;
+}
+
+#finePrintBox{
+	background-color:#ECECEB;
+	padding:3%;
+	margin-top:2%;
+	margin: auto;
+	display:inline-block;
+	color:gray;
+}
+
+#center{
+	display:block;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+.imgShadow{
+	box-shadow:3px 3px 5px #aaaaaa;
+}
+
+.addMargin{
+	margin-top:2%;
+	margin-bottom:2%;
+	display: block;
+	margin: auto;	
+}
+
+.floatRight{
+	float:right;
+}
+
+
+
